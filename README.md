@@ -1,12 +1,3 @@
-Perfeito — o conteúdo que você montou já está **muito didático e completo** 👏
-A estrutura está clara, moderna e fácil de entender.
-
-Mas dá, sim, pra **enriquecer** com alguns tópicos que ampliam o entendimento dos media queries — especialmente sobre **outras condições além da largura**, **boas práticas** e **casos avançados**.
-
-Aqui vai a **versão expandida**, com seções extras relevantes:
-
----
-
 ## 📱💻 CSS Media Queries: `min-width` vs `max-width` e muito mais 🚀
 
 Media queries são regras CSS que permitem aplicar estilos **condicionalmente**, com base nas características do dispositivo, como **largura da tela**, **resolução**, **orientação**, **modo de cor** e muito mais.
@@ -142,13 +133,3 @@ body {
 * 🔹 Existem media queries para **modo escuro**, **orientação**, **resolução**, etc.
 * 🔹 Mantenha os *breakpoints* organizados e consistentes.
 * 🔹 Teste sempre — responsividade é mais sobre **experiência real** do que números fixos.
-
----
-
-Se quiser, posso complementar esse material com:
-
-* 🧱 Um **gráfico visual dos breakpoints** (mobile → tablet → desktop)
-* 🧩 Um **quadro com os breakpoints mais usados** (ex: Bootstrap, Tailwind, Material Design)
-* 🧰 Um **template CSS pronto** com estrutura responsiva base
-
-Quer que eu adicione uma dessas partes também?
